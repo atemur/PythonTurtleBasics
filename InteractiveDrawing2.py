@@ -19,10 +19,11 @@ def clear_screen():
     turtle_instance.clear()
 
 def turtle_return_home():
-    return turtle_instance.home()
+    turtle_instance.home()
 
 def turtle_pen_up():
     turtle_instance.penup()
+    
 def turtle_pen_down():
     turtle_instance.pendown()
 
